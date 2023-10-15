@@ -18,5 +18,6 @@ void main(List<String> args) {
   print(a);
 
   print(a.removeAt(1));
+  print(a.toSet());
 
 }
